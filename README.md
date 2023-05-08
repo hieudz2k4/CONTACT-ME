@@ -3,12 +3,16 @@
 
 You can find me on the following social media platforms:
 
-<a href="https://www.facebook.com/dz.hieu.509" class="social-icon">Facebool</a>
-<a href="https://www.instagram.com/yourusername/" class="social-icon">instagram</a>
-<a href="https://www.linkedin.com/in/yourusername/" class="social-icon">linkedin</a>
-<a href="https://t.me/@Hehe dz" class="social-icon"> telegram</a>
-<a href="" class="social-icon">Zalo</a>
+<a href="https://www.facebook.com/dz.hieu.509" class="social-icon">Facebook</a>
+<a href="https://www.instagram.com//" class="social-icon">Instagram</a>
+<a href="https://www.linkedin.com/in/hiếu-đào-205366249/" class="social-icon">Linkedin</a>
+<a href="https://t.me/" class="social-icon"> Telegram</a>
+<a href="" class="social-icon" class="social-icon">Zalo</a>
+<a href="https://github.com/hieudz2k4/" class="social-icon">GitHub</a>
+<a href="" class="social-icon" class="social-icon">0703766981</a>
+<a href="" class="social-icon">Email</a>
 
-Or you can <a href="mailto:your-email@example.com">email me</a>.
+
+
 
 
