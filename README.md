@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/hieudz2k4/CONTACT-ME/blob/main/file.css">
-![Picture](https://github.com/hieudz2k4/CONTACT-ME/blob/main/Image%20GitHub/Quote.jpg)
+<img src="https://github.com/hieudz2k4/CONTACT-ME/blob/main/Image%20GitHub/Quote.jpg">
 <div class="header">
    <h1>Contact me</h1>
    <img src="https://github.com/hieudz2k4/CONTACT-ME/blob/main/Image%20GitHub/handshake%20(1).png">
